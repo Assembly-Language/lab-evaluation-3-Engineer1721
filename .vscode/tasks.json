@@ -42,7 +42,7 @@
           "/OUT:mixed.exe",
           "/LIBPATH:C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Enterprise\\VC\\Tools\\MSVC\\14.27.29110\\lib\\x86",
           "/LIBPATH:C:\\Program Files (x86)\\Windows Kits\\10\\Lib\\10.0.18362.0\\um\\x86",
-        "/LIBPATH:C:C:\\Program Files (x86)\\Windows Kits\\10\\Lib\\10.0.18362.0\\ucrt\\x86",
+        "/LIBPATH:C:\\Program Files (x86)\\Windows Kits\\10\\Lib\\10.0.18362.0\\ucrt\\x86",
         "C:\\Irvine-lib\\*.lib"
         ],
         "group": {
